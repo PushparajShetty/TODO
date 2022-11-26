@@ -1,0 +1,41 @@
+
+h1{
+    font-size: 100px;
+    opacity: 0.6;
+    /* margin :50px 450px 50px 450px ; */
+    text-align:center;
+    margin-top: 0px;
+    padding: 35px;
+    background-color: bisque;
+}
+#todo1{
+    text-align: center;
+    background-color: rgb(57, 141, 141);
+    margin-right: 300px;
+    margin-left: 300px;
+    border-radius:20px 100px  
+    
+}
+p{
+    text-decoration:overline;
+    font-size: 50px;
+    padding :10px;
+    color:rgb(167, 185, 185)
+}
+#create,#view{
+    margin-left: 1000px;
+    font-size: 25px;
+    padding: 15px;
+    
+
+    color:rgb(214, 144, 46);
+}
+#create:hover{
+    color:rgb(36, 165, 183);
+    text-decoration:solid;
+}
+
+#view:hover{
+    color:rgb(159, 73, 169);
+    text-decoration:solid;
+}

@@ -1,0 +1,25 @@
+.fron{
+    background-color:rgb(121, 190, 230);
+    height:100vh;
+    margin-top: 0;
+}
+h2{
+    margin-top:0;
+    height:100px;
+    padding-top:40px;
+    font-size:50px;
+    text-decoration:underline;
+    text-align:center;
+    background-color: rgb(216, 216, 192);
+}
+.bac{
+    padding:160px  0px;
+    margin-left: 470px;
+    margin-right: 470px;
+    font-size:40px;
+    border-radius: 60px;
+    height:570px;
+
+    background-color: rgb(134, 151, 192);;
+    text-align:center;
+}

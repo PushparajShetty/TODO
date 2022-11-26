@@ -1,0 +1,39 @@
+.eles{
+    /* display:flex; */
+    /* justify-content:center; */
+    /* text-align: center; */
+    /* align-items: center; */
+    margin-left: 500px;
+    
+}
+
+.ele{
+    border:20px solid #86b1c6;
+    border-radius: 50px;
+    width:600px;
+    /* text-align: center; */
+    margin-bottom: 40px;
+    height:190px;
+    background-color:rgb(208, 205, 196)
+
+}
+.todo{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    padding-top:10px;
+}
+.delete,.update{
+    margin-left: 33px;
+    /* margin-bottom: 0%; */
+    margin-top: 50px;
+    border-radius:10px;
+    
+
+}
+
+
+.name{
+    text-align:end;
+    margin-left:250px
+}
